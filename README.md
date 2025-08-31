@@ -11,6 +11,7 @@
 
 **Demo Link**: https://www.loom.com/share/45e1052ec73845a3a91a4f9d226b4316?sid=1a136125-d2bc-4126-8976-19a45c205836
 
+**How to use this project**
 
 ```bash
 
@@ -23,3 +24,4 @@ npm start
 #but you have to host n8n or use its cloud version to create webhook
 
 ```
+Contributing :)
